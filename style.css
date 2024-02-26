@@ -1,0 +1,27 @@
+.container{
+    margin: 0 auto; /*centrar*/
+    background-color: white;
+  
+}
+.titulos{
+    margin-left: 15px;
+}
+body{
+    background-color:darkblue;
+}
+#boton{
+    margin-left: 600px;
+}
+.caja{
+    width: 100px;
+    background-color: black;
+    margin-left: 125px;
+}
+.score{
+    color: white;
+    font-family:fantasy;
+}
+
+.col-4{
+    text-align: center;
+}
